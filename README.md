@@ -216,10 +216,29 @@ git clone https://github.com/imademethink/Automation_Java_Playwright_BDD_Cucumbe
 
 ---
 
+## Navigate to Folder
+
+```bash
+cd Automation_Java_Playwright_BDD_Cucumber_TestNG_Reporting_Maven
+```
+
+---
+
+## Download latest stable chromedriver.exe file
+
+```bash
+https://googlechromelabs.github.io/chrome-for-testing/
+
+Paste it in below folder
+..\Automation_Java_Playwright_BDD_Cucumber_TestNG_Reporting_Maven\src\test\resources\chrome_driver\
+```
+
+---
+
 ## Install Dependencies
 
 ```bash
-mvn clean install
+mvn clean install -DskipTests
 ```
 
 ---
@@ -232,16 +251,13 @@ mvn test
 
 ---
 
-## Reports
+## Generate Report
 
-After execution, the framework automatically generates:
-
-- HTML Report
-- Failure Screenshots
-- Playwright Trace
-- Execution Logs
+HTML reports are automatically generated after execution with failure screenshot attached
+..\Automation_Java_Playwright_BDD_Cucumber_TestNG_Reporting_Maven\target\HtmlReport.html
 
 ---
+
 
 # 🛠 Technology Stack
 
