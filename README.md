@@ -235,6 +235,15 @@ Paste it in below folder
 
 ---
 
+## Install Playwright browser (embedded)
+
+```bash
+playwright install
+```
+
+
+---
+
 ## Install Dependencies
 
 ```bash
