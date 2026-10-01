@@ -32,6 +32,18 @@ The framework focuses on simplicity, readability, and maintainability without in
 
 ---
 
+---
+<img width="1672" height="941" alt="Ready To Use Automation Framework - Java, Playwright, Cucumber" src="https://github.com/user-attachments/assets/987bf46d-7eca-4bd4-809c-3ba70569ebf0" />
+
+
+
+# YouTube Video Link
+
+https://youtu.be/UOXyuYJBNxU
+---
+
+
+
 # ✨ Features
 
 - ☕ Java
